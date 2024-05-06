@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Jin/StudioProjects/EncryptionMemo/app/src/main/res/drawable-v24/bg_round10_banana.xml" value="0.185" />
+        <entry key="..\:/Users/Jin/StudioProjects/EncryptionMemo/app/src/main/res/drawable-v24/bg_round10_black_frame.xml" value="0.185" />
+        <entry key="..\:/Users/Jin/StudioProjects/EncryptionMemo/app/src/main/res/drawable-v24/bg_round10_crayolapeach.xml" value="0.185" />
+        <entry key="..\:/Users/Jin/StudioProjects/EncryptionMemo/app/src/main/res/drawable-v24/bg_round10_greenapple.xml" value="0.185" />
+        <entry key="..\:/Users/Jin/StudioProjects/EncryptionMemo/app/src/main/res/drawable-v24/bg_round10_orange.xml" value="0.185" />
+        <entry key="..\:/Users/Jin/StudioProjects/EncryptionMemo/app/src/main/res/drawable-v24/bg_round10_pear.xml" value="0.185" />
+        <entry key="..\:/Users/Jin/StudioProjects/EncryptionMemo/app/src/main/res/drawable-v24/bg_round10_pear2.xml" value="0.185" />
+        <entry key="..\:/Users/Jin/StudioProjects/EncryptionMemo/app/src/main/res/drawable-v24/bg_round10_pear3.xml" value="0.185" />
+        <entry key="..\:/Users/Jin/StudioProjects/EncryptionMemo/app/src/main/res/drawable-v24/bg_round10_pear4.xml" value="0.185" />
+        <entry key="..\:/Users/Jin/StudioProjects/EncryptionMemo/app/src/main/res/drawable-v24/bg_round10_tomato.xml" value="0.185" />
+        <entry key="..\:/Users/Jin/StudioProjects/EncryptionMemo/app/src/main/res/drawable-v24/bg_round10_vanillacream.xml" value="0.185" />
+        <entry key="..\:/Users/Jin/StudioProjects/EncryptionMemo/app/src/main/res/drawable-v24/bg_round10_white.xml" value="0.185" />
+        <entry key="..\:/Users/Jin/StudioProjects/EncryptionMemo/app/src/main/res/drawable-v24/ic_add.xml" value="0.185" />
+        <entry key="..\:/Users/Jin/StudioProjects/EncryptionMemo/app/src/main/res/drawable-v24/ic_addmemo_lock.xml" value="0.185" />
+        <entry key="..\:/Users/Jin/StudioProjects/EncryptionMemo/app/src/main/res/drawable-v24/ic_addmemo_unlock.xml" value="0.185" />
+        <entry key="..\:/Users/Jin/StudioProjects/EncryptionMemo/app/src/main/res/drawable-v24/ic_back.xml" value="0.185" />
+        <entry key="..\:/Users/Jin/StudioProjects/EncryptionMemo/app/src/main/res/drawable-v24/ic_edit.xml" value="0.185" />
+        <entry key="..\:/Users/Jin/StudioProjects/EncryptionMemo/app/src/main/res/drawable-v24/ic_launcher_background.xml" value="0.185" />
+        <entry key="..\:/Users/Jin/StudioProjects/EncryptionMemo/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.185" />
+        <entry key="..\:/Users/Jin/StudioProjects/EncryptionMemo/app/src/main/res/drawable-v24/ic_lock.xml" value="0.185" />
+        <entry key="..\:/Users/Jin/StudioProjects/EncryptionMemo/app/src/main/res/drawable-v24/ic_remove.xml" value="0.185" />
+        <entry key="..\:/Users/Jin/StudioProjects/EncryptionMemo/app/src/main/res/drawable-v24/ic_setting.xml" value="0.185" />
+        <entry key="..\:/Users/Jin/StudioProjects/EncryptionMemo/app/src/main/res/layout/activity_addmemo.xml" value="0.3509963768115942" />
+        <entry key="..\:/Users/Jin/StudioProjects/EncryptionMemo/app/src/main/res/layout/activity_editmemo.xml" value="0.3509963768115942" />
+        <entry key="..\:/Users/Jin/StudioProjects/EncryptionMemo/app/src/main/res/layout/activity_main.xml" value="0.34322916666666664" />
+        <entry key="..\:/Users/Jin/StudioProjects/EncryptionMemo/app/src/main/res/layout/activity_viewmemo.xml" value="0.3509963768115942" />
+        <entry key="..\:/Users/Jin/StudioProjects/EncryptionMemo/app/src/main/res/layout/dialog_check_password.xml" value="0.3509963768115942" />
+        <entry key="..\:/Users/Jin/StudioProjects/EncryptionMemo/app/src/main/res/layout/dialog_inputenckey.xml" value="0.3509963768115942" />
+        <entry key="..\:/Users/Jin/StudioProjects/EncryptionMemo/app/src/main/res/layout/dialog_yesno.xml" value="0.3509963768115942" />
+        <entry key="..\:/Users/Jin/StudioProjects/EncryptionMemo/app/src/main/res/layout/row_main_list.xml" value="0.3509963768115942" />
+        <entry key="..\:/Users/Jin/StudioProjects/EncryptionMemo/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.185" />
+        <entry key="..\:/Users/Jin/StudioProjects/EncryptionMemo/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.185" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
