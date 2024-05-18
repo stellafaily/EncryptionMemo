@@ -83,8 +83,6 @@ class AddMemoViewModel(val db: MemoDao): BaseViewModel() {
                     System.currentTimeMillis(),
                     Utils.getRandomResourceId(),
                     "",
-                    data,
-                    data2,
                     Utils.encData(password, data),
                     Utils.encData2(password, data2)
                 )
@@ -96,8 +94,6 @@ class AddMemoViewModel(val db: MemoDao): BaseViewModel() {
                     System.currentTimeMillis(),
                     Utils.getRandomResourceId(),
                     "",
-                    data,
-                    data2,
                     null,
                     null
                 )

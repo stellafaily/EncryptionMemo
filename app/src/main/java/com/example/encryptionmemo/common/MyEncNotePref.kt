@@ -49,6 +49,6 @@ class MyEncNotePref(context: Context) {
         set(value) = prefs.edit().putInt(KEY_NOTE_COLOR_INDEX, value).apply()
 
     var secureHashKey: String
-        get()  = prefs.getString(KEY_SECURE_HASK_KEY, "\$2a\$11\$loaOZMJYnn6fdFBPomtSVOvfDzqU4AjKWm8p978nPx3RPY/cKmPwa") ?: "\$2a\$11\$loaOZMJYnn6fdFBPomtSVOvfDzqU4AjKWm8p978nPx3RPY/cKmPwa"
+        get()  = prefs.getString(KEY_SECURE_HASK_KEY, "\$2a\$11\$loAOZMJYnn6fdFBPomtSVOvfDzqU4AjKWm8p978nPx3RPY/cKmPwa") ?: "\$2a\$11\$loAOZMJYnn6fdFBPomtSVOvfDzqU4AjKWm8p978nPx3RPY/cKmPwa"
         set(value) = prefs.edit().putString(KEY_SECURE_HASK_KEY, value).apply()
 }

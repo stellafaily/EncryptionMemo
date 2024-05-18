@@ -18,14 +18,12 @@ data class MemoData(@ColumnInfo(name = "hasEnc") var hasEnc: Boolean = true,
                     @ColumnInfo(name = "editedAt") var editedAt: Long = 0L,
                     @ColumnInfo(name = "backgroundId") var backgroundId: Int = 0,
                     @ColumnInfo(name = "openData") var openData: String = "",
-                    @ColumnInfo(name = "data") var data: String = "",
-                    @ColumnInfo(name = "data2") var data2: String = "",
                     @ColumnInfo(name = "encData") var encData: ByteArray?,
                     @ColumnInfo(name = "encData2") var encData2: ByteArray?
 ): Parcelable {
     @PrimaryKey(autoGenerate = true) var index: Int = 0
 
-    constructor() : this(true, "", 0L, 0, "", "","", null, null)
+    constructor() : this(true, "", 0L, 0, "", null, null)
     companion object{
         const val MEMO_TABLE_NAME = "tableMemo"
         const val INDEX = "index"
