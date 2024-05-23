@@ -18,6 +18,7 @@ import org.greenrobot.eventbus.EventBus
 
 class MainViewModel(val db: MemoDao): BaseViewModel() {
 
+
     companion object {
         val TAG = "MainViewModel"
     }

@@ -19,11 +19,12 @@ data class MemoData(@ColumnInfo(name = "hasEnc") var hasEnc: Boolean = true,
                     @ColumnInfo(name = "backgroundId") var backgroundId: Int = 0,
                     @ColumnInfo(name = "openData") var openData: String = "",
                     @ColumnInfo(name = "encData") var encData: ByteArray?,
-                    @ColumnInfo(name = "encData2") var encData2: ByteArray?
+                    @ColumnInfo(name = "encData2") var encData2: ByteArray?,
+                    @ColumnInfo(name = "upVersion") var isChecked: Boolean = true
 ): Parcelable {
     @PrimaryKey(autoGenerate = true) var index: Int = 0
 
-    constructor() : this(true, "", 0L, 0, "", null, null)
+    constructor() : this(true, "", 0L, 0, "", null, null,true)
     companion object{
         const val MEMO_TABLE_NAME = "tableMemo"
         const val INDEX = "index"

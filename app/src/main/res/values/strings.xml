@@ -48,14 +48,14 @@
     <string name="enter_the_password">비밀번호를 입력해주세요.</string>
     <string name="enter_remove_password">메모를 삭제합니다.\n\n비밀번호를 입력해주세요.</string>
 
-    <string name="secure_exception_rooting">루팅된 폰입니다. 앱을 종료합니다.</string>
-    <string name="secure_exception_debugging">디버깅이 감지되었습니다.\n앱을 종료합니다.</string>
-    <string name="secure_exception_crack">위변조된 앱 입니다.\n앱을 종료합니다.</string>
+    <string name="secure_exception_rooting">.</string>
+    <string name="secure_exception_debugging">.</string>
+    <string name="secure_exception_crack">.</string>
 
-    <string name="infinity_locked">앱이 영구적으로 잠겼습니다.\n암호화된 메모의 복원이 불가능합니다.</string>
+    <string name="infinity_locked">.</string>
 
-    <string name="remain_infinity_lock_count">영구적으로 잠기기까지 %d회 남았습니다.</string>
-    <string name="remain_time">잠김! %d초 남음.</string>
+    <string name="remain_infinity_lock_count">.</string>
+    <string name="remain_time">.</string>
 
     <string name="app_version">* 암복호화 암호관리앱 Version</string>
 
